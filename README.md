@@ -1,1 +1,1 @@
-"export default function App(): JSX.Element {\n  return <h1 className=\"bg-emerald-500\">please gimme an A1</h1>\n}\n"
+"export default function App(): JSX.Element {\n  return <h1 className=\"bg-red-500\">123</h1>\n}\n"
